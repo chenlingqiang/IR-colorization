@@ -8,7 +8,5 @@ This code was tested with Pytorch 1.6.0, CUDA 10.2, and Python 3.8
 ## Testing
 ### 
  (```python test.py --dataroot datasets/ --model COLOR ```)
- (```javascript
-document.getElementById("ts").innerHTML="Hello"
-```)
-# Acknowledgments
+ (```javascriptdocument.getElementById("ts").innerHTML="Hello"```)
+
